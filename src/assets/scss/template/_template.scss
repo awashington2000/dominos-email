@@ -1,0 +1,93 @@
+// These are the styles to make some of the templates look extra nice.
+// Feel free to remove these styles for production!
+
+// Body Styles 
+body,
+html, 
+.body {
+  background: #f3f3f3 !important;
+  // background: #ffffff !important;
+}
+
+.container.header {
+  background: #f3f3f3;
+}
+
+th.dominos-header {
+  padding-bottom: 8px;
+}
+
+.dominos-header {
+  padding-top: 20px;
+}
+
+th.online-text {
+ padding-bottom: 0;
+}
+
+th.logo {
+  padding: 0 !important;
+}
+.online-text p {
+  color: rgb(225, 26, 60);
+  text-align: right;
+  text-transform: uppercase;
+  padding-top: 24px;
+  font-weight: 700;
+  font-size: 14px;
+}
+
+.online-text a {
+  color: rgb(225, 26, 60);
+  font-weight: 700;
+  font-size: 14px;
+}
+
+.btns {
+  background: rgb(245, 245, 245);
+  padding-top: 40px;
+}
+
+.social-media li {
+  list-style: none;
+  float: left;
+  padding-left: 10px !important;
+  padding-right: 10px !important;
+}
+
+.social-media ul {
+  display: block;
+  width: 145px;
+  height: 40px !important;
+  padding: 30px 0px 0px 0px !important;
+  // padding-top: 30px;
+  margin: 0 auto;
+  // background: #00ff00;
+}
+
+.social-media {
+  width: 100%;
+  height: 70px !important;
+  background: rgb(229, 229, 229);
+}
+
+.terms {
+  background: rgb(245, 245, 245);
+}
+
+.terms {
+  p {
+    font-size: 12px !important;
+    color:rgb(164, 164, 164)
+  }
+
+  a {
+    text-decoration: underline;
+  }
+}
+
+th.terms {
+  padding-top: 50px !important;
+  padding-left: 40px !important;
+  padding-right: 40px !important;
+}
