@@ -7,5 +7,6 @@ dist
 config.json
 src/assets/img
 old_layouts
+node_modules
 .git
-.vscode/
+.vscode
