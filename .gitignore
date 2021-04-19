@@ -1,8 +1,12 @@
 .DS_Store
-node_modules
 npm-debug.log
 bower_components
 dist
 .sass-cache
 .awspublish*
 config.json
+src/assets/img
+old_layouts
+.git
+
+node_modules
