@@ -3,9 +3,7 @@
 
 ## Installation
 
-1. Your computer needs [Node.js](https://nodejs.org/en/) 0.12 or greater. 
-2. 
-
+1. Your computer needs [Node.js](https://nodejs.org/en/) 0.12 or greater and gulp.js. 
 
 2. Install the Foundation CLI with this command:
 

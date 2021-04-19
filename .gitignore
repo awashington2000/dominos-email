@@ -8,4 +8,4 @@ config.json
 src/assets/img
 old_layouts
 .git
-.vscode
+.vscode/
