@@ -1,6 +1,5 @@
 # Dominos Pizza Promotional Email
 
-
 ## Installation
 
 1. Your computer needs [Node.js](https://nodejs.org/en/) 0.12 or greater and gulp.js. 
