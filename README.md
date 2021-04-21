@@ -1,8 +1,8 @@
-# Dominos Pizza Promotional Email
+## Dominos Pizza Promotional Email
 
-## Installation
+#### Installation
 
-1. Your computer needs [Node.js](https://nodejs.org/en/) 0.12 or greater and gulp.js. 
+1. Your computer needs [Node.js](https://nodejs.org/en/) 10.23 or greater and gulp.js.js. 
 
 2. Install the Foundation CLI with this command:
 
@@ -11,8 +11,8 @@
 
 3. Then open the folder in your command line, and install the needed dependencies:
 
-    cd projectname
-    npm install
+    cd projectname<br>
+    npm install<br>
 
 
 4. Build Commands
